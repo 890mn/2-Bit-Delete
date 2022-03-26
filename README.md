@@ -8,5 +8,6 @@ an easy python file
   针对头文件使用几个字节加密的文件有效，例如人工桌面NDF文件的提取。
 
 # BY THE WAY 
-GO [链接的B站主页]
-(https://space.bilibili.com/45409103) TO FIND ME ， GITHUB MAY NOBODY HERE .
+GO
+[链接的B站主页](https://space.bilibili.com/45409103)
+TO FIND ME ， GITHUB MAY NOBODY HERE .
